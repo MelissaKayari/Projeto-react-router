@@ -1,8 +1,24 @@
 {
+  "name": "projeto-react-router",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/MelissaKayari/Projeto-react-router#readme",
+  "bugs": {
+    "url": "https://github.com/MelissaKayari/Projeto-react-router/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MelissaKayari/Projeto-react-router.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "dependencies": {
-    "react": "^19.3.0",
-    "react-dom": "^19.3.0",
-    "react-router-dom": "^7.18.4",
+    "react": "^18.2.0",
     "vite": "^8.3.3"
   }
 }
